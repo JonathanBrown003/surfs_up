@@ -1,2 +1,2 @@
-# surfs_up - Analysis of surf and ice cream shop in Oahu - Viability of year-round availability
-Using SQLite to analyze a new surf shop
+# Surfs_Up - Analysis of surf and ice cream shop in O'ahu
+The purpose of this analysis was to study the commercial viability of operating a surf and ice cream shop year-round in O'ahu, Hawaii using weather data analysis. We studied the weather data in the months of June and December to get a gauge of year-round temperatures. Using Pandas and SQLite, we queried the data to determine if this shop was sustainable year round. 
